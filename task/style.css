@@ -1,0 +1,136 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.head{
+    width:100%;
+    height: 100px;
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+    font-size:large;
+}
+.headimg>img{
+    height: 60px;
+    width: 100px;
+}
+.headmid>ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    position: relative;
+    top: 5px;
+
+}
+.headlast>button{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+    height: 30px;
+     width: 90px;
+     position: relative;
+     top: 5px;
+}
+.main{
+    display: flex;
+    height: 600px;
+    width: 800px;
+    
+    position: relative;
+    left: 250px;
+    top: 80px;
+}
+.center{
+      justify-content: center;
+     
+     height: 500px;
+     width: 450px;
+     position: relative;
+     left: 0px;
+     top: 50px;
+}
+.heading{
+    
+    height: 150px;
+    width: 300px;
+    padding-left: 50px;
+     font-size: larger;
+    position: relative;
+    left:  5px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para{
+    
+    height: 100px;
+    width: 400px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.buttons{
+    display: flex;
+    gap: 30px;
+}
+.one{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+    position: relative;
+    top: 60px;
+    left: 20px;
+    height: 40px;
+    width: 100px;
+    font-size: medium;
+}
+.two{
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 60px ;
+    height: 40px;
+    width: 100px;
+    font-size: medium;
+}
+.icons{
+    
+    position: relative;
+    top: 90px;
+    left: 20px;
+    height: 100px;
+    width: 200px;
+}
+.line{
+    font-size: medium;
+    position: relative;
+    left: 10px;
+    top: 4px;
+}
+.logos{
+    display: flex;
+    gap: 30px;
+}
+.lone{
+    height: 30px;
+    width: 40px;
+    position: relative;
+   top: 30px;
+   left: 10px;
+}
+.ltwo{
+    height: 30px;
+    width: 40px;
+    position: relative;
+   top: 30px;
+}
+.last>img{
+    height: 400px;
+    width: 350px;
+    position: relative;
+    top: 100px;
+    
+}
+
+
